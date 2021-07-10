@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xSnapp
+- 👀 I’m interested in cool stuff
+- 🌱 I’m currently learning HTML, PHP, CSS, and a bit of js here and there
+- 📫 You can reach me by email xsnapp@snaixo.com!
